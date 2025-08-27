@@ -1,4 +1,4 @@
-erformed functional testing of the Calculator application.
+Performed functional testing of the Calculator application.
 
 Verified basic arithmetic operations: addition, subtraction, multiplication, division, and other functions.
 
