@@ -1,25 +1,23 @@
-# Testproject_3
+erformed functional testing of the Calculator application.
 
-Performed functional testing of the Calculator application
-
-Verified basic arithmetic operations: addition, subtraction, multiplication, division, and other functions
+Verified basic arithmetic operations: addition, subtraction, multiplication, division, and other functions.
 
 Designed and executed test cases to:
 
-Confirm correct outputs
+Confirm correct outputs.
 
-Validate inputs
+Validate inputs.
 
-Handle errors for invalid inputs (e.g., divide by zero)
+Handle errors for invalid inputs, such as divide by zero.
 
-Ensure UI consistency
+Ensure UI consistency.
 
-Documented test results and reported defects
+Documented test results and reported defects.
 
-Ensured the application’s reliability and accuracy
+Ensured the application’s reliability and accuracy.
 
-Here Each Sheet Contains
+Here Each Sheet Contains:
 
-  1. Test Cases
-  2. Executed Test cases
-  3. Bug report
+  Test Cases  
+  Executed Test Cases  
+  Bug Report
